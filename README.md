@@ -1,0 +1,2 @@
+# Hamburgerezo
+VSC feladat
